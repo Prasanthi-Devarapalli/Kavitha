@@ -11,6 +11,8 @@ Language Studio provides you with a platform to try several service features, an
 
 Get started using Language Studio
 To use Language Studio, you will need an Azure Language resource for authentication. You can also use this resource to call the feature REST APIs and client libraries. Follow these steps to get started.
+![image](https://user-images.githubusercontent.com/112709511/195115812-8b5ebb8c-d53f-4058-8818-4f34e11cadf4.png)
+
 
  Important
 
