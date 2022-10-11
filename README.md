@@ -42,15 +42,23 @@ A screenshot showing the main screen in Language Studio.
 This feature has a section for entering text, uploading a file, or choosing a text sample to demonstrate how the feature works. To try the demo, you will need to choose a resource and acknowledge it will incur usage according to your pricing tier.
 
 A screenshot showing a feature in Language Studio
+![image](https://user-images.githubusercontent.com/112709511/195115312-45bbf13e-e3f4-4f58-a65c-8deee6568cae.png)
+
+![image](https://user-images.githubusercontent.com/112709511/195115240-734607c4-2a0b-4b70-b115-0dc53b2bc98a.png)
+
 
 After sending text, you'll be able to see a visualization, along with the JSON response. At the bottom of the page, you'll see next steps and the cURL command for the API request you just sent.
 
 A screenshot showing the result of a feature in Language Studio
+![image](https://user-images.githubusercontent.com/112709511/195115183-2691caf4-f526-482d-a4b3-a172e2fad1d2.png)
+
 
 Language Studio pre-configured features
 The Language service offers multiple features that use prebuilt, pre-configured models for performing various tasks such as: entity linking, language detection, and key phrase extraction. See the Azure Cognitive Service for Language overview to see the list of features offered by the service.
 
 Each of these features has a demo-like experience inside Language Studio that lets you input text, and presents the response both visually, and in JSON. These demos help you quickly test these prebuilt features without using code.
+![image](https://user-images.githubusercontent.com/112709511/195115382-fae58edb-c364-41b1-9404-1114e393bd3b.png)
+
 
 Language Studio customizable features
 The Language service also offers multiple features that let you create, train, and deploy custom models to better fit your data. For example, custom content classification and custom question answering. For features with customization, Language Studio offers workflows that let developers and subject matter experts build models without needing machine learning expertise.
