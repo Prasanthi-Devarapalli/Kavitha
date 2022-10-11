@@ -1,9 +1,4 @@
-Quickstart: Get started with Language Studio
-Article
-07/22/2022
-3 minutes to read
-4 contributors
-
+Language Studio creat
 
 Language Studio is a set of UI-based tools that lets you explore, build, and integrate features from Azure Cognitive Service for Language into your applications.
 
@@ -24,6 +19,7 @@ Create an Azure Subscription. You can create one for free.
 
 Log into Language Studio. If it's your first time logging in, you'll see a window appear that lets you choose a language resource.
 ![image](https://user-images.githubusercontent.com/112709511/195116278-0d61108b-9491-4c32-8980-eb6e731aaf60.png)
+
 Select Create a new language resource. Then enter information for your new resource, such as a name, location and resource group.
 
  Tip
