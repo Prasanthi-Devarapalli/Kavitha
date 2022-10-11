@@ -1,4 +1,4 @@
-Language Studio creat
+Language Studio create
 
 Language Studio is a set of UI-based tools that lets you explore, build, and integrate features from Azure Cognitive Service for Language into your applications.
 
